@@ -82,12 +82,12 @@ The final model architecture consisted of the following layers:
 | Convolution | kernel = 3x3; activation layer = RELU; depth = 64 |
 | Convolution | kernel = 3x3; activation layer = RELU; depth = 64 |
 | Flatten | dropout rate during training = 50%|
-| Fully-connected | 100 neuraons; dropout rate during training = 50% |
+| Fully-connected | 100 neurons; dropout rate during training = 50% |
 | Fully-connected | 50 neurons; dropout rate during training = 50% |
 | Fully-connected | 10 neurons; dropout rate during training = 50% |
 | Output | 1 output value |
 
-#### 3. Creation of the Training Set & Training Process
+### Creation of the Training Set & Training Process
 
 For my training data, I only used the sample data provided by Udacity. I found that this data provided good images that generally kept the car in the center of the lane.
 
