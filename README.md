@@ -7,7 +7,7 @@ The nanodegree was organized into 3 parts, with each part containing a number of
 1. Computer Vision and Deep Learning
     - [Finding Lane Lines on the Road](FindingLaneLinesOnTheRoad)
     - [Traffic Sign Classifier](TrafficSignClassifier)
-    - Behavioral Cloning
+    - [Behavioral Cloning](BehavioralCloning)
     - Advanced Lane Finding
     - Vehicle Detection and Tracking
 2. Sensor Fusion, Localization, and Control

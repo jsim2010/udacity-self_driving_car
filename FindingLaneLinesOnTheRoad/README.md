@@ -1,5 +1,7 @@
 # Finding Lane Lines on the Road
 
+See <https://github.com/udacity/CarND-LaneLines-P1> for installation instructions.
+
 The goals / steps of this project are the following:
 * Modify the code in the provided IPython Notebook - [P1.ipynb](P1.ipynb) - to identify lane lines on the road in a provided video stream.
 * Reflect on your work in a written report - see [Reflection](#reflection)

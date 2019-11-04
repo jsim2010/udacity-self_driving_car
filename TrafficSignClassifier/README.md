@@ -1,5 +1,7 @@
 # Traffic Sign Recognition
 
+See <https://github.com/udacity/CarND-Traffic-Sign-Classifier-Project> for installation instructions.
+
 The goals / steps of this project are the following:
 * Load the data set (which can be found at <https://s3-us-west-1.amazonaws.com/udacity-selfdrivingcar/traffic-signs-data.zip>).
 * Explore, summarize and visualize the data set
