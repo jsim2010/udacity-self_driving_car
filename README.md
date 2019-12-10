@@ -9,7 +9,7 @@ The nanodegree was organized into 3 parts, with each part containing a number of
     - [Traffic Sign Classifier](TrafficSignClassifier)
     - [Behavioral Cloning](BehavioralCloning)
     - [Advanced Lane Finding](AdvancedLaneFinding)
-    - Vehicle Detection and Tracking
+    - [Vehicle Detection and Tracking](VehicleDetectionAndTracking)
 2. Sensor Fusion, Localization, and Control
     - Extended Kalman Filters
     - Unscented Kalman Filters
