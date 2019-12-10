@@ -11,7 +11,7 @@ The nanodegree was organized into 3 parts, with each part containing a number of
     - [Advanced Lane Finding](AdvancedLaneFinding)
     - [Vehicle Detection and Tracking](VehicleDetectionAndTracking)
 2. Sensor Fusion, Localization, and Control
-    - Extended Kalman Filters
+    - [Extended Kalman Filters](ExtendedKalmanFilters)
     - Unscented Kalman Filters
     - Kidnapped Vehicle
     - PID Controller
