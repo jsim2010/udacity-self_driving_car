@@ -15,7 +15,7 @@ The nanodegree was organized into 3 parts, with each part containing a number of
     - [Unscented Kalman Filters](UnscentedKalmanFilters)
     - [Kidnapped Vehicle](KidnappedVehicle)
     - [PID Controller](PidController)
-    - Model Predictive Control
+    - [Model Predictive Control](ModelPredictiveControl)
 3. Path Planning, Concentrations, and Systems
     - Path Planning Project
     - Functional Safety of a Lane Assistance System
