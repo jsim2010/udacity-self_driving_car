@@ -13,7 +13,7 @@ The nanodegree was organized into 3 parts, with each part containing a number of
 2. Sensor Fusion, Localization, and Control
     - [Extended Kalman Filters](ExtendedKalmanFilters)
     - [Unscented Kalman Filters](UnscentedKalmanFilters)
-    - Kidnapped Vehicle
+    - [Kidnapped Vehicle](KidnappedVehicle)
     - PID Controller
     - Model Predictive Control
 3. Path Planning, Concentrations, and Systems

@@ -4,4 +4,4 @@ See <https://github.com/udacity/CarND-Unscented-Kalman-Filter-Project> for insta
 
 The goals / steps of this project are the following:
 
-* Utilize a kalman filter to estimate the state of a moving object of interest with noisy lidar and radar measurments.
+* Utilize an unscented kalman filter to estimate the state of a moving object of interest with noisy lidar and radar measurments.
