@@ -17,6 +17,6 @@ The nanodegree was organized into 3 parts, with each part containing a number of
     - [PID Controller](PidController)
     - [Model Predictive Control](ModelPredictiveControl)
 3. Path Planning, Concentrations, and Systems
-    - Path Planning Project
-    - Functional Safety of a Lane Assistance System
-    - Progamming a Real Self-Driving Car
+    - [Path Planning](PathPlanning)
+    - [Functional Safety of a Lane Assistance System](FunctionalSafetyOfALaneAssistanceSystem)
+    - [Progamming a Real Self-Driving Car](ProgrammingARealSelfDrivingCar)
